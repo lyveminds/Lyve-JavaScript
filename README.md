@@ -1,4 +1,4 @@
-Lyve-JavaScript
+Lyve JavaScript
 ===============
 
 JavaScript Style Guide
