@@ -189,8 +189,8 @@ JavaScript Style Guide
     ```javascript
 
     function Foo (options) {
-        if (!(this instanceof FooBar))
-            return new FooBar(options);
+        if (!(this instanceof Foo))
+            return new Foo(options);
 
         this.options = options;
 
