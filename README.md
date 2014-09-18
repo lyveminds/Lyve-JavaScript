@@ -239,10 +239,13 @@ JavaScript Style Guide
 
 
     // Reference.
+    
+    // Boolean
+    true, false
 
     // Truthy:
-    "foo", 1, true
+    "foo", 1
 
     // Falsy:
-    "", 0, null, undefined, NaN, void 0, false
+    "", 0, null, undefined, NaN, void 0
     ```
